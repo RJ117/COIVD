@@ -1,1 +1,1 @@
-# COIVD
+# COVID
